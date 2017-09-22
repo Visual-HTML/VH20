@@ -4,8 +4,14 @@
 
 2017 10
 
-Restart VH20 as a basic source of code for page code manipulation.  Restart out of the scope of the browser' inline editor.
-Current test senario: 1 html structure code (a table with header, text), 2 or 3 style sheets and an behavior making table data grouping
+Restart VH20 as a basic source of code for page code manipulation.  
+
+Restart out of the scope of the browser' inline editor.
+
+Current test senario: 
+- 1 html structure code (a table with header, text)
+- 2 or 3 style sheets
+- a behavior making table data grouping with one of the style sheets
 
 ```
 
